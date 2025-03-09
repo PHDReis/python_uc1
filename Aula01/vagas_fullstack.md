@@ -17,33 +17,33 @@
 
 #### Back-end (Lado do Servidor)
 
-  •	Python (foco no Django ou Flask) – frameworks para criar aplicações web.
+    •	Python (foco no Django ou Flask) – frameworks para criar aplicações web.
   
-  •	Banco de Dados (SQL - PostgreSQL, MySQL ou SQLite) – para armazenar informações.
+    •	Banco de Dados (SQL - PostgreSQL, MySQL ou SQLite) – para armazenar informações.
   
-  •	APIs REST – criar e consumir APIs para comunicação entre sistemas.
+    •	APIs REST – criar e consumir APIs para comunicação entre sistemas.
   
 
 #### Front-end (Lado do Usuário)
 
-  •	HTML, CSS e JavaScript – a base da interface de qualquer site.
+    •	HTML, CSS e JavaScript – a base da interface de qualquer site.
   
-  •	Frameworks como React ou Vue.js – ajudam a criar interfaces modernas e dinâmicas.
+    •	Frameworks como React ou Vue.js – ajudam a criar interfaces modernas e dinâmicas.
   
 
 #### Controle de Versão
 
-  •	Git e GitHub – essencial para salvar e compartilhar seu código.
+    •	Git e GitHub – essencial para salvar e compartilhar seu código.
   
 
 #### Hospedagem e Deploy
 
-  •	Conhecimento básico em Docker, AWS, Heroku ou Vercel – para colocar o site no ar.
+    •	Conhecimento básico em Docker, AWS, Heroku ou Vercel – para colocar o site no ar.
   
 
 #### Noções de Segurança e Performance
 
-  •	Como proteger dados e otimizar o desempenho da aplicação.
+    •	Como proteger dados e otimizar o desempenho da aplicação.
 
   
 
@@ -56,37 +56,37 @@ Para um desenvolvedor fullstack iniciante que está iniciando com Python, é fun
 
 #### Back-end (Servidor)
 
-  •	Python: Dominar a sintaxe e as bibliotecas padrão da linguagem.
+    •	Python: Dominar a sintaxe e as bibliotecas padrão da linguagem.
   
-  •	Frameworks Web: Familiarizar-se com frameworks como Django ou Flask para desenvolvimento de aplicações web robustas.
+    •	Frameworks Web: Familiarizar-se com frameworks como Django ou Flask para desenvolvimento de aplicações web robustas.
   
-  •	Banco de Dados: Conhecer bancos de dados relacionais (como PostgreSQL, MySQL) e não relacionais (como MongoDB).
+    •	Banco de Dados: Conhecer bancos de dados relacionais (como PostgreSQL, MySQL) e não relacionais (como MongoDB).
   
-  •	APIs: Entender a criação e consumo de APIs RESTful para comunicação entre sistemas.
+    •	APIs: Entender a criação e consumo de APIs RESTful para comunicação entre sistemas.
 
   
 #### Front-end (Cliente)
 
-  •	HTML e CSS: Compreender a estrutura e o estilo das páginas web.
+    •	HTML e CSS: Compreender a estrutura e o estilo das páginas web.
   
-  •	JavaScript: Aprender a linguagem para adicionar interatividade às páginas.
+    •	JavaScript: Aprender a linguagem para adicionar interatividade às páginas.
   
-  •	Frameworks/Libraries: Explorar ferramentas como React ou Vue.js para construção de interfaces de usuário dinâmicas.
+    •	Frameworks/Libraries: Explorar ferramentas como React ou Vue.js para construção de interfaces de usuário dinâmicas.
   
 
 #### Controle de Versão
 
-  •	Git: Utilizar sistemas de controle de versão para gerenciar e compartilhar código.
+    •	Git: Utilizar sistemas de controle de versão para gerenciar e compartilhar código.
   
 
 #### Deploy e Hospedagem
 
-  •	Serviços de Nuvem: Conhecer plataformas como AWS, Heroku ou Vercel para implantação de aplicações.
+    •	Serviços de Nuvem: Conhecer plataformas como AWS, Heroku ou Vercel para implantação de aplicações.
   
 
 #### Segurança e Performance
 
-  •	Boas Práticas: Implementar medidas para proteger aplicações e otimizar seu desempenho.
+    •	Boas Práticas: Implementar medidas para proteger aplicações e otimizar seu desempenho.
 
     
 
