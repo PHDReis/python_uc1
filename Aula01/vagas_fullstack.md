@@ -21,19 +21,18 @@
 
 #### Front-end (Lado do Usuário)
 
-    •	HTML, CSS e JavaScript – a base da interface de qualquer site.
-  
-    •	Frameworks como React ou Vue.js – ajudam a criar interfaces modernas e dinâmicas.
+    • HTML, CSS e JavaScript – a base da interface de qualquer site.
+    • Frameworks como React ou Vue.js – ajudam a criar interfaces modernas e dinâmicas.
   
 
 #### Controle de Versão
 
-    •	Git e GitHub – essencial para salvar e compartilhar seu código.
+    • Git e GitHub – essencial para salvar e compartilhar seu código.
   
 
 #### Hospedagem e Deploy
 
-    •	Conhecimento básico em Docker, AWS, Heroku ou Vercel – para colocar o site no ar.
+    • Conhecimento básico em Docker, AWS, Heroku ou Vercel – para colocar o site no ar.
   
 
 #### Noções de Segurança e Performance
@@ -51,37 +50,32 @@ Para um desenvolvedor fullstack iniciante que está iniciando com Python, é fun
 
 #### Back-end (Servidor)
 
-    •	Python: Dominar a sintaxe e as bibliotecas padrão da linguagem.
-  
-    •	Frameworks Web: Familiarizar-se com frameworks como Django ou Flask para desenvolvimento de aplicações web robustas.
-  
-    •	Banco de Dados: Conhecer bancos de dados relacionais (como PostgreSQL, MySQL) e não relacionais (como MongoDB).
-  
-    •	APIs: Entender a criação e consumo de APIs RESTful para comunicação entre sistemas.
+    • Python: Dominar a sintaxe e as bibliotecas padrão da linguagem.
+    • Frameworks Web: Familiarizar-se com frameworks como Django ou Flask para desenvolvimento de aplicações web robustas.
+    • Banco de Dados: Conhecer bancos de dados relacionais (como PostgreSQL, MySQL) e não relacionais (como MongoDB).
+    • APIs: Entender a criação e consumo de APIs RESTful para comunicação entre sistemas.
 
   
 #### Front-end (Cliente)
 
-    •	HTML e CSS: Compreender a estrutura e o estilo das páginas web.
-  
-    •	JavaScript: Aprender a linguagem para adicionar interatividade às páginas.
-  
-    •	Frameworks/Libraries: Explorar ferramentas como React ou Vue.js para construção de interfaces de usuário dinâmicas.
+    • HTML e CSS: Compreender a estrutura e o estilo das páginas web.
+    • JavaScript: Aprender a linguagem para adicionar interatividade às páginas. 
+    • Frameworks/Libraries: Explorar ferramentas como React ou Vue.js para construção de interfaces de usuário dinâmicas.
   
 
 #### Controle de Versão
 
-    •	Git: Utilizar sistemas de controle de versão para gerenciar e compartilhar código.
+    • Git: Utilizar sistemas de controle de versão para gerenciar e compartilhar código.
   
 
 #### Deploy e Hospedagem
 
-    •	Serviços de Nuvem: Conhecer plataformas como AWS, Heroku ou Vercel para implantação de aplicações.
+    • Serviços de Nuvem: Conhecer plataformas como AWS, Heroku ou Vercel para implantação de aplicações.
   
 
 #### Segurança e Performance
 
-    •	Boas Práticas: Implementar medidas para proteger aplicações e otimizar seu desempenho.
+    • Boas Práticas: Implementar medidas para proteger aplicações e otimizar seu desempenho.
 
     
 
