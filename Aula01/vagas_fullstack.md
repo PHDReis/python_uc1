@@ -4,13 +4,13 @@
 
 ### Principais Características
 
-  •	Curiosidade e aprendizado contínuo – A tecnologia evolui rápido, então estar sempre aprendendo é essencial.
+    •	Curiosidade e aprendizado contínuo – A tecnologia evolui rápido, então estar sempre aprendendo é essencial.
   
-  •	Capacidade de resolver problemas – Boa parte do trabalho é encontrar soluções eficientes para desafios técnicos.
+    •	Capacidade de resolver problemas – Boa parte do trabalho é encontrar soluções eficientes para desafios técnicos.
   
-  •	Organização e atenção aos detalhes – Pequenos erros podem causar grandes problemas no código.
+    •	Organização e atenção aos detalhes – Pequenos erros podem causar grandes problemas no código.
   
-  •	Boa comunicação – Trabalhar em equipe é comum, então saber explicar suas ideias é importante.
+    •	Boa comunicação – Trabalhar em equipe é comum, então saber explicar suas ideias é importante.
   
 
 ### Habilidades e Conhecimentos Essenciais
