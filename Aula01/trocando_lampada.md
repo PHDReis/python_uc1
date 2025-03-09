@@ -1,4 +1,4 @@
-#Pensamento Computacional: Como trocar uma lâmpada?
+# Pensamento Computacional: Como trocar uma lâmpada?
 
 Passo a passo de como trocar uma lâmpada através do pensamento computacional.
 
