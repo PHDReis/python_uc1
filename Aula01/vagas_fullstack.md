@@ -37,7 +37,7 @@
 
 #### Noções de Segurança e Performance
 
-    •	Como proteger dados e otimizar o desempenho da aplicação.
+    • Como proteger dados e otimizar o desempenho da aplicação.
 
   
 
