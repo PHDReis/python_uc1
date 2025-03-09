@@ -14,11 +14,9 @@
 
 #### Back-end (Lado do Servidor)
 
-    •	Python (foco no Django ou Flask) – frameworks para criar aplicações web.
-  
-    •	Banco de Dados (SQL - PostgreSQL, MySQL ou SQLite) – para armazenar informações.
-  
-    •	APIs REST – criar e consumir APIs para comunicação entre sistemas.
+    • Python (foco no Django ou Flask) – frameworks para criar aplicações web.
+    • Banco de Dados (SQL - PostgreSQL, MySQL ou SQLite) – para armazenar informações.
+    • APIs REST – criar e consumir APIs para comunicação entre sistemas.
   
 
 #### Front-end (Lado do Usuário)
