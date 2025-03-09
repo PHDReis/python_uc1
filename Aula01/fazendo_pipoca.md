@@ -4,17 +4,17 @@ Passo a passo de como fazer uma pipoca através do pensamento computacional.
 
 #### Ingredientes:
 
-1. Milho de pipoca
-2. Manteiga ou Óleo
-3. Sal
+- Milho de pipoca
+- Manteiga ou Óleo
+- Sal
 
 #### Utensílios:
 
-1. Panela com tampa
-2. Fogão
-3. Colher de sopa
-4. Pote para pipoca
-5. Xícara
+- Panela com tampa
+- Fogão
+- Colher de sopa
+- Pote para pipoca
+- Xícara
 
 #### Passo a Passo:
 
