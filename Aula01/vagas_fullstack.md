@@ -18,50 +18,71 @@
 #### Back-end (Lado do Servidor)
 
   •	Python (foco no Django ou Flask) – frameworks para criar aplicações web.
+  
   •	Banco de Dados (SQL - PostgreSQL, MySQL ou SQLite) – para armazenar informações.
+  
   •	APIs REST – criar e consumir APIs para comunicação entre sistemas.
+  
 
 #### Front-end (Lado do Usuário)
 
   •	HTML, CSS e JavaScript – a base da interface de qualquer site.
+  
   •	Frameworks como React ou Vue.js – ajudam a criar interfaces modernas e dinâmicas.
+  
 
 #### Controle de Versão
 
   •	Git e GitHub – essencial para salvar e compartilhar seu código.
+  
 
 #### Hospedagem e Deploy
 
   •	Conhecimento básico em Docker, AWS, Heroku ou Vercel – para colocar o site no ar.
+  
 
 #### Noções de Segurança e Performance
 
   •	Como proteger dados e otimizar o desempenho da aplicação.
 
+  
+
 Para um desenvolvedor fullstack iniciante que está iniciando com Python, é fundamental desenvolver uma base sólida em diversas áreas. Além das características pessoais mencionadas anteriormente, como curiosidade e capacidade de resolver problemas, é essencial adquirir conhecimentos técnicos específicos para atuar tanto no back-end quanto no front-end de aplicações web.
 
+
+
 ### Habilidades Técnicas Essenciais
+
 
 #### Back-end (Servidor)
 
   •	Python: Dominar a sintaxe e as bibliotecas padrão da linguagem.
+  
   •	Frameworks Web: Familiarizar-se com frameworks como Django ou Flask para desenvolvimento de aplicações web robustas.
+  
   •	Banco de Dados: Conhecer bancos de dados relacionais (como PostgreSQL, MySQL) e não relacionais (como MongoDB).
+  
   •	APIs: Entender a criação e consumo de APIs RESTful para comunicação entre sistemas.
 
+  
 #### Front-end (Cliente)
 
   •	HTML e CSS: Compreender a estrutura e o estilo das páginas web.
+  
   •	JavaScript: Aprender a linguagem para adicionar interatividade às páginas.
+  
   •	Frameworks/Libraries: Explorar ferramentas como React ou Vue.js para construção de interfaces de usuário dinâmicas.
+  
 
 #### Controle de Versão
 
   •	Git: Utilizar sistemas de controle de versão para gerenciar e compartilhar código.
+  
 
 #### Deploy e Hospedagem
 
   •	Serviços de Nuvem: Conhecer plataformas como AWS, Heroku ou Vercel para implantação de aplicações.
+  
 
 #### Segurança e Performance
 
@@ -101,7 +122,6 @@ o	Fonte: programathor.com.br
 4. **Desenvolvedor(a) Fullstack Web na Getronics**
 
 ```bash
-4.	Desenvolvedor(a) Fullstack Web na Getronics
 o	Local: Remoto
 o	Descrição: Desenvolvimento e manutenção de aplicações web.
 o	Requisitos: Experiência em desenvolvimento web fullstack.
