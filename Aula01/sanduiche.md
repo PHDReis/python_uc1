@@ -2,7 +2,7 @@
 
 Passo a passo para fazer um sanduiche a partir de um pensamento computacional.
 
-#### Itens necessários
+### Itens necessários
 
 - Uma faca
 - Pão francês
@@ -10,7 +10,7 @@ Passo a passo para fazer um sanduiche a partir de um pensamento computacional.
 - Presunto
 - Manteiga
 
-#### Processo
+### Processo
 
 1. Abra o armário
 2. Pegue o pão francês
