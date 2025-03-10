@@ -15,16 +15,16 @@ Passo a passo de como fazer um bolo através de um pensamento computacional.
 
 ### Passo a Passo (Algoritmo para fazer um bolo):
 
-1. Entrada: Reúna todos os ingredientes e os utensílios necessários (tigela, batedor, forma, forno).
-2. Processamento:
-
+1. Reúna todos os ingredientes e os utensílios necessários (tigela, batedor, forma, forno).
+2. Modo de preparo:
+```bash
     a. Pré-aqueça o forno a 180°C.
     b. Em uma tigela, misture os ovos e o açúcar até formar um creme homogêneo.
     c. Adicione o óleo (ou manteiga derretida) e o leite, misturando bem.
     d. Acrescente a farinha de trigo aos poucos, mexendo para evitar grumos.
     e. Adicione o fermento e misture levemente para não perder o efeito do crescimento.
-   
-4. Saída: Despeje a massa em uma forma untada e enfarinhada.
-5. Execução: Leve ao forno e asse por aproximadamente 35-40 minutos.
-6. Verificação: Faça o teste do palito: se sair limpo, o bolo está pronto.
-7. Finalização: Retire do forno, espere esfriar e sirva.
+```   
+4. Despeje a massa em uma forma untada e enfarinhada.
+5. Leve ao forno e asse por aproximadamente 35-40 minutos.
+6. Faça o teste do palito: se sair limpo, o bolo está pronto.
+7. Retire do forno, espere esfriar e sirva.
