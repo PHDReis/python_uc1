@@ -10,4 +10,4 @@ R. Pode conter outros tipos de compartimentos.
 R. Nem sempre, podem haver vários tamanhos diferentes.
 
 4. **Por que o armário possui compartimentos de vários tipos?**
-5. R. Para guardar diferentes objetos de diferentes tamanhos.
+R. Para guardar diferentes objetos de diferentes tamanhos.
