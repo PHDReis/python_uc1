@@ -1,0 +1,36 @@
+Exercício 5
+
+Portugol
+
+Algoritmo para cálculo de Fatorial
+
+Variaveis:
+
+numero
+fatorial
+contador
+
+Inicio:
+
+receba("Digite um número: )
+leia(numero)
+fatorial=1
+contador=fatorial
+
+enquanto contador>1
+    fatorial = fatorial vezes o contador
+    diminua um do contador
+
+imprima("O fatorial do numero é fatorial")
+
+Python
+
+numero=float(input("Digite um número: "))
+fatorial=1
+contador=numero
+
+while contador>1:
+    fatorial*=contador
+    contador-=1    
+
+print(f"O fatorial do {numero} é {fatorial}")

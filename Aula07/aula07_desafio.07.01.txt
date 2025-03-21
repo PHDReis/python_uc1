@@ -1,0 +1,40 @@
+Exercício 1
+
+Portugol:
+
+Algoritmo para soma de dois números:
+
+variaveis: 
+	num1, num2: flutuantes
+inicio:
+	escreva("Digite um número: ")
+	leia(num1)
+	escreva("Digite segunto nº: ")
+	leia(num2)
+
+	soma=num1+num2
+
+	exibe(soma)
+fim_algoritmo
+
+
+
+
+Python:
+
+num1=float(input("Digite o 1º num: "))
+num2=float(input("Digite o 2º num: "))
+
+soma=num1+num2
+
+print(f"O resultado da soma é: {soma}")
+
+
+
+
+Teste de mesa:
+
+Passo  Num1  Num2  Soma  OP
+  1     3     5          leitura
+  2     3     5     8    soma
+  3	3     5     8    print

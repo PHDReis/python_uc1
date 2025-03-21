@@ -1,0 +1,71 @@
+Exercício 9
+
+Portugol
+
+Algoritmo para uma média aritmética com exclusão
+
+
+inicio
+
+Variáveis
+
+
+        real nota1, nota2, nota3, nota4, nota5
+        real menor_nota, soma, media
+        
+       
+        escreva("Digite a 1ª nota: ")
+        leia(nota1)
+        escreva("Digite a 2ª nota: ")
+        leia(nota2)
+        escreva("Digite a 3ª nota: ")
+        leia(nota3)
+        escreva("Digite a 4ª nota: ")
+        leia(nota4)
+        escreva("Digite a 5ª nota: ")
+        leia(nota5)
+        
+        
+        menor_nota = nota1
+        soma = 0
+        
+        
+        notas = {nota1, nota2, nota3, nota4, nota5}
+        para (real nota : notas)
+        
+            se (nota < menor_nota)
+            
+                menor_nota = nota
+            
+            soma = soma + nota
+        
+        
+        media = (soma - menor_nota) / 4
+        
+        escreva("A média das notas é: ", arredondar(media, 2))
+
+
+Python
+
+
+    nota1 = float(input("Digite a 1ª nota: ")) 
+    nota2 = float(input("Digite a 2ª nota: ")) 
+    nota3 = float(input("Digite a 3ª nota: ")) 
+    nota4 = float(input("Digite a 4ª nota: ")) 
+    nota5 = float(input("Digite a 5ª nota: ")) 
+
+notas = [nota1, nota2, nota3, nota4, nota5]
+
+
+menor_nota = notas[0]
+soma = 0
+
+
+for nota in notas:
+    if nota < menor_nota:
+        menor_nota = nota
+    soma += nota
+
+media = (soma - menor_nota) / 4
+
+print(f"A média das notas é: {media:.2f}")

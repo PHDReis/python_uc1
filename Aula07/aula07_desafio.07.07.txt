@@ -1,0 +1,42 @@
+Exercício 7
+
+Portugol
+
+Algoritmo para verificar um numero primo
+
+Variáveis
+variavel primo, contador, i
+
+
+escreva("Digite o número para verificar se é primo: ")  
+leia(primo)
+
+contador <- 0
+
+para i de 1 até primo faca
+    se (primo % i = 0) entao
+        contador <- contador + 1
+    fimse
+fimpara
+
+se contador = 2 entao
+    escreva(primo, " é um número primo.")
+senao
+    escreva(primo, " não é um número primo.")
+fimse
+
+
+Python:
+
+primo = int(input("digite o numero para verificar se ele é primo")) 
+contador=0
+
+for i in range(1,primo +1): 
+    if primo % i == 0:
+        contador += 1
+
+if contador == 2:
+    print(f"{primo} é numero primo")
+
+else:
+    print(f"{primo} nao é numero primo")

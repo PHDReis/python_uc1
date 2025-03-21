@@ -1,0 +1,44 @@
+Exercício 2
+
+Portugol:
+
+Algoritmo para Verificar Par ou Ímpar
+variaveis: 
+	num, resultado:flutuante
+	
+inicio:
+	escreva("Digite um número: ")
+	leia(num)
+
+	se resultado != 0
+		imprime "Par"
+	senão
+		imprime "Impar"
+	
+fim_algoritmo
+
+
+
+
+Python:
+
+num=float(input("Digite um num: "))
+
+resultado = num*%2
+
+if resultado==0:
+	print("Par")
+else:
+	print("Impar")
+
+
+
+
+
+Teste de mesa:
+
+Passo  Num  Resultado  OP
+  1     8             leitura
+  2     8       0     Calculo do módulo
+  3	3       0     Verifica Par/Impar
+  4     8       0     Print "Par"

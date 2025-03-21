@@ -1,0 +1,43 @@
+Exercício 08
+
+Portugol
+
+Algoritmo para Reversão de string
+
+Variáveis
+
+Variável entrada
+invertida
+i
+
+
+escreva("Digite a string para ser invertida: ")  
+leia(entrada)
+
+invertida <- ""
+
+
+para i de (tamanho(entrada) - 1) até 0 passo -1 faca
+    invertida <- invertida + entrada[i] 
+
+
+escreva("A string invertida: ", invertida)
+
+
+
+
+Python
+
+
+entrada = input("digite a string para ser invertida: ")
+
+
+invertida = ""
+
+
+for i in range(len(entrada) - 1, -1, -1):
+    invertida += entrada[i]
+
+
+print(f"a string invertida : {invertida}")
+

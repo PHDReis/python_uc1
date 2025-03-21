@@ -1,0 +1,36 @@
+Exercício 6
+
+Portugol
+
+Variáveis
+variavel a, b, proximo, i
+
+escreva("Digite o primeiro número: ")
+leia(a)
+
+escreva("Digite o segundo número: ")
+leia(b)
+
+
+para i de 1 até 10 faca
+
+    escreva("Número ", i, ": ", a)
+    
+    proximo <- a + b
+    
+    a <- b
+    b <- proximo
+fimpara
+
+
+Python:
+
+a = int(input("Digite o primeiro número: "))
+b = int(input("Digite o segundo número: "))
+
+
+for i in range(10):
+    print(f"numero {i + 1}: {a}")
+    proximo = a+ b
+    a = b
+    b = proximo
