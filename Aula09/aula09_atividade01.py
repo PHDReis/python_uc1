@@ -105,6 +105,9 @@ def calcular_media(vetor):
     print(f"\n\tOs elementos que estão acima da média são: {acima_media}\n")
 
 
+"""
+Testando Funções:
+"""
 
 
 if __name__ == "__main__":
