@@ -55,8 +55,7 @@ def inverter(vetor):
 Exemplo 8: Multiplicar cada elemento do vetor por 2 e armazenar em um novo vetor
 """
 
-def multiplicar(vetor):
-    multi=2
+def multiplicar(vetor, multi=2):
     vetor_mult=[elemento*multi for elemento in vetor]
     print(f"\n\tA multiplicação dos elementos no vetor é: {vetor_mult}\n")
 
@@ -103,6 +102,7 @@ def calcular_media(vetor):
     acima_media=[num for num in vetor if num>media]
     print(f"\n\t A média dos valores é: {media}\n")
     print(f"\n\tOs elementos que estão acima da média são: {acima_media}\n")
+
 
 
 """
